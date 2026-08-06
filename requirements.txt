@@ -1,0 +1,16 @@
+#core llm + langchain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain_google_genai
+streamlit
+
+#tavily search tool
+tavily-python
+
+#web scrapping
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxml
